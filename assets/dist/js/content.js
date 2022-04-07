@@ -10,7 +10,6 @@ function setUserAgent(window, userAgent) {
         }
     }
 }
-
 const goToSite = (e) => {
     console.log(e.keyCode);
     if (e.keyCode === 13) {
